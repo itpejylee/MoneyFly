@@ -230,7 +230,7 @@
       "message": "com.kakaopay.moneyfly.exception.details.RecvNotPossibleException: 모든 받기가 완료되었습니다."
     }
     ```
-4. 조회 API : 읽기 전용으로 
+4. 조회 API : 읽기 전용으로 처리
   - 제약조건
     -  token : 3자리 문자
   - 요청
