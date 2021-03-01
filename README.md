@@ -280,3 +280,11 @@
       "message": "com.kakaopay.moneyfly.exception.details.InqrExpTimeException: 조회할 수 있는 기간이 만료되었습니다."
     }
     ```
+### 테스트 결과
+  1. 뿌리기, 조회 
+  
+      ![sendTest](https://user-images.githubusercontent.com/79645187/109566442-38b10b80-7b27-11eb-9c5e-cc57d17e5a2c.png)
+  
+  2. 받기
+  
+      ![recvTest](https://user-images.githubusercontent.com/79645187/109566439-38187500-7b27-11eb-84bd-66ebb9b6b789.png)
