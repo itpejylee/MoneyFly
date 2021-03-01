@@ -12,6 +12,7 @@
 
 ## 빌드 및 실행
 - DB
+  - 테이블 스키마 : testdb (변경시 아래 접속주소 변경필요)
   - 기본설정 : localhost:3306/testdb
   - 아래 명시된 DDL, DML 실행
     - 테이블 (DDL)
