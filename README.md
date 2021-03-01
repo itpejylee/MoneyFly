@@ -68,7 +68,7 @@
           VALUES (3,1,50,3,now());
         ```
   - 접속정보 변경시 해당 파일 수정이 필요
-- 빌드(DB생성 및 데이터가 삽입되어야 오류 미발생
+- 빌드(테스트 케이스때문에 DB생성 및 데이터가 삽입 후 즉시 실행 필요)
 ```
   $ git clone https://github.com/itpejylee/MoneyFly.git
   $ cd MoneyFly
